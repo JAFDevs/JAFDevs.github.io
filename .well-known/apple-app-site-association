@@ -5,8 +5,8 @@
         "appIDs": ["68Y2Q5FBX8.jafdev.Null"],
         "components": [
           {
-            "/": "/null/focus*",
-            "comment": "Matches the focus trigger path"
+            "/": "/focus*",
+            "comment": "Matches the root focus path"
           }
         ]
       }
